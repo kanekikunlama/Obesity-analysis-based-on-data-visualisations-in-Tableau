@@ -5,3 +5,4 @@ This is a data visualisation magazine/dashboard which provides insights on how o
 
 The dashboards explain and provide insights on obesity's relation to involved factors such as fast food consumption, diabetes and education.
 
+Data visualisations in above link named OBESITY VISUALISATION
